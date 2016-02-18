@@ -5,7 +5,7 @@
 EGD3Line provides a really fast way to create line charts with D3. The main features are;
 
 <ol>
-<li>It is responsive, using SVG's *AspectRatio* property and so integrates into Bootstrap;</li>
+<li>It is responsive, using SVG's <i>AspectRatio</i> property and so integrates into Bootstrap;</li>
 <li>It is reusable; multiple charts can be used in a single page with completely different data and properties;</li>
 <li>It allows any number of lines;</li>
 <li>It uses independent CSS and not inline styles;</li>
